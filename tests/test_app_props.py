@@ -1,6 +1,6 @@
 import unittest
 
-from app_props import AppProps
+from src.app_props.app_props import AppProps
 
 
 class TestAppProps(unittest.TestCase):
