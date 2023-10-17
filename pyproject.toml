@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "app-props"
-version = "1.0.0"
+version = "1.0.1"
 description = "Utility to retrieve properties from a configuration yaml file"
 authors = ["Erik Shagdar <erik.shagdar@gmail.com>"]
 license = "MIT"
